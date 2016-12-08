@@ -1,0 +1,1080 @@
+﻿Log file open, 12/08/16 22:08:29
+LogInit:Display: Running engine for game: MyProject5
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(47193545) SRandInit(47193545).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.212337
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3195953
+LogInit: Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Nov 12 2016 02:14:10
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.12.08-21.08.30:433][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.08-21.08.30:433][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.12.08-21.08.30:458][  0]LogInit: Computer: PALADIN
+[2016.12.08-21.08.30:458][  0]LogInit: User: kuari000
+[2016.12.08-21.08.30:458][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.12.08-21.08.30:458][  0]LogInit: High frequency timer resolution =2.338345 MHz
+[2016.12.08-21.08.30:459][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.12.08-21.08.30:459][  0]LogMemory: Platform Memory Stats for Windows
+[2016.12.08-21.08.30:459][  0]LogMemory: Process Physical Memory: 264.27 MB used, 264.27 MB peak
+[2016.12.08-21.08.30:459][  0]LogMemory: Process Virtual Memory: 262.77 MB used, 262.77 MB peak
+[2016.12.08-21.08.30:459][  0]LogMemory: Physical Memory: 6497.87 MB used,  9769.08 MB free, 16266.95 MB total
+[2016.12.08-21.08.30:459][  0]LogMemory: Virtual Memory: 676.53 MB used,  9769.08 MB free, 134217728.00 MB total
+[2016.12.08-21.08.31:352][  0]LogTextLocalizationManager: No translations for ('fr-FR') exist, falling back to 'en' for localization and internationalization data.
+[2016.12.08-21.08.33:792][  0]LogD3D11RHI: D3D11 adapters:
+[2016.12.08-21.08.33:827][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2016.12.08-21.08.33:827][  0]LogD3D11RHI:       2018/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.12.08-21.08.33:835][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2016.12.08-21.08.33:835][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2016.12.08-21.08.33:837][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.12.08-21.08.33:837][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.12.08-21.08.33:837][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.12.08-21.08.33:845][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.12.08-21.08.33:845][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2016.12.08-21.08.33:845][  0]LogWindows: EnumDisplayDevices:
+[2016.12.08-21.08.33:846][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2016.12.08-21.08.33:846][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2016.12.08-21.08.33:846][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2016.12.08-21.08.33:847][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2016.12.08-21.08.33:847][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2016.12.08-21.08.33:847][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2016.12.08-21.08.33:847][  0]LogD3D11RHI:      Driver Date: Unknown
+[2016.12.08-21.08.33:847][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.12.08-21.08.33:864][  0]LogD3D11RHI: Async texture creation enabled
+[2016.12.08-21.08.33:881][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.12.08-21.08.33:881][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Users/kuari_000/Documents/GitHub/Ruiz/Intermediate/Shaders/WorkingDirectory/17276/).
+[2016.12.08-21.08.33:881][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kuari_000/AppData/Local/Temp/UnrealShaderWorkingDir/D8AD55414969F997AE35CFA65F67F24B/'.
+[2016.12.08-21.08.33:881][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.12.08-21.08.37:592][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.12.08-21.08.37:703][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2016.12.08-21.08.37:811][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2016.12.08-21.08.37:945][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2016.12.08-21.08.38:098][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2016.12.08-21.08.38:236][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.12.08-21.08.38:383][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.12.08-21.08.38:507][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.12.08-21.08.38:625][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.12.08-21.08.38:789][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.12.08-21.08.38:969][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.12.08-21.08.39:113][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.12.08-21.08.39:259][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.12.08-21.08.39:398][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.12.08-21.08.39:546][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.12.08-21.08.39:834][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.12.08-21.08.39:834][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.12.08-21.08.39:930][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.12.08-21.08.40:188][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.12.08-21.08.40:274][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.12.08-21.08.40:408][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.12.08-21.08.40:525][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.12.08-21.08.40:647][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.12.08-21.08.40:806][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.12.08-21.08.40:806][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.12.08-21.08.42:518][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.12.08-21.08.43:005][  0]LogDerivedDataCache: Loaded boot cache 0.49s 50MB C:/Users/kuari_000/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.12.08-21.08.43:005][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/kuari_000/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2016.12.08-21.08.43:005][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/kuari_000/Documents/GitHub/Ruiz/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.12.08-21.08.43:005][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.12.08-21.08.43:005][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/kuari_000/Documents/GitHub/Ruiz/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.12.08-21.08.43:005][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.12.08-21.08.43:036][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.12.08-21.08.43:049][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kuari_000/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.12.08-21.08.44:558][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.08-21.08.44:562][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.12.08-21.08.45:042][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2016.12.08-21.08.45:176][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2016.12.08-21.08.45:335][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2016.12.08-21.08.45:335][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2016.12.08-21.08.45:335][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.12.08-21.08.45:917][  0]LogExec:Warning: Cannot perform text import on property 'EnvironmentCubeMap' here: EnvironmentCubeMap=TextureCube'/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1',PostProcessingSettings=(bOverride_WhiteTemp=True,bOverride_WhiteTint=False,bOverride_ColorSaturation=True,bOverride_ColorContrast=True,bOverride_ColorGamma=True,bOverride_ColorGain=True,bOverride_ColorOffset=True,bOverride_FilmWhitePoint=False,bOverride_FilmSaturation=False,bOverride_FilmChannelMixerRed=False,bOverride_FilmChannelMixerGreen=False,bOverride_FilmChannelMixerBlue=False,bOverride_FilmContrast=False,bOverride_FilmDynamicRange=False,bOverride_FilmHealAmount=False,bOverride_FilmToeAmount=False,bOverride_FilmShadowTint=False,bOverride_FilmShadowTintBlend=False,bOverride_FilmShadowTintAmount=False,bOverride_FilmSlope=True,bOverride_FilmToe=True,bOverride_FilmShoulder=True,bOverride_FilmBlackClip=True,bOverride_FilmWhiteClip=True,bOverride_SceneColorTint=False,bOverride_SceneFringeIntensity=False,bOverride_AmbientCubemapTint=False,bOverride_AmbientCubemapIntensity=False,bOverride_BloomIntensity=True,bOverride_BloomThreshold=False,bOverride_Bloom1Tint=False,bOverride_Bloom1Size=False,bOverride_Bloom2Size=False,bOverride_Bloom2Tint=False,bOverride_Bloom3Tint=False,bOverride_Bloom3Size=False,bOverride_Bloom4Tint=False,bOverride_Bloom4Size=False,bOverride_Bloom5Tint=False,bOverride_Bloom5Size=False,bOverride_Bloom6Tint=False,bOverride_Bloom6Size=False,bOverride_BloomSizeScale=False,bOverride_BloomDirtMaskIntensity=False,bOverride_BloomDirtMaskTint=False,bOverride_BloomDirtMask=False,bOverride_AutoExposureMethod=True,bOverride_AutoExposureLowPercent=False,bOverride_AutoExposureHighPercent=False,bOverride_AutoExposureMinBrightness=True,bOverride_AutoExposureMaxBrightness=True,bOverride_AutoExposureSpeedUp=False,bOverride_AutoExposureSpeedDown=False,bOverride_AutoExposureBias=True,bOverride_HistogramLogMin=True,bOverride_HistogramLogMax=True,bOverride_LensFlareIntensity=False,bOverride_LensFlareTint=False,bOverride_LensFlareTints=False,bOverride_LensFlareBokehSize=False,bOverride_LensFlareBokehShape=False,bOverride_LensFlareThreshold=False,bOverride_VignetteIntensity=True,bOverride_GrainIntensity=False,bOverride_GrainJitter=False,bOverride_AmbientOcclusionIntensity=True,bOverride_AmbientOcclusionStaticFraction=True,bOverride_AmbientOcclusionRadius=True,bOverride_AmbientOcclusionFadeDistance=False,bOverride_AmbientOcclusionFadeRadius=False,bOverride_AmbientOcclusionDistance=False,bOverride_AmbientOcclusionRadiusInWS=False,bOverride_AmbientOcclusionPower=True,bOverride_AmbientOcclusionBias=True,bOverride_AmbientOcclusionQuality=True,bOverride_AmbientOcclusionMipBlend=True,bOverride_AmbientOcclusionMipScale=True,bOverride_AmbientOcclusionMipThreshold=True,bOverride_LPVIntensity=False,bOverride_LPVDirectionalOcclusionIntensity=False,bOverride_LPVDirectionalOcclusionRadius=False,bOverride_LPVDiffuseOcclusionExponent=False,bOverride_LPVSpecularOcclusionExponent=False,bOverride_LPVDiffuseOcclusionIntensity=False,bOverride_LPVSpecularOcclusionIntensity=False,bOverride_LPVSize=False,bOverride_LPVSecondaryOcclusionIntensity=False,bOverride_LPVSecondaryBounceIntensity=False,bOverride_LPVGeometryVolumeBias=False,bOverride_LPVVplInjectionBias=False,bOverride_LPVEmissiveInjectionIntensity=False,bOverride_IndirectLightingColor=False,bOverride_IndirectLightingIntensity=False,bOverride_ColorGradingIntensity=True,bOverride_ColorGradingLUT=True,bOverride_DepthOfFieldFocalDistance=False,bOverride_DepthOfFieldFstop=False,bOverride_DepthOfFieldSensorWidth=False,bOverride_DepthOfFieldDepthBlurRadius=False,bOverride_DepthOfFieldDepthBlurAmount=False,bOverride_DepthOfFieldFocalRegion=False,bOverride_DepthOfFieldNearTransitionRegion=False,bOverride_DepthOfFieldFarTransitionRegion=False,bOverride_DepthOfFieldScale=True,bOverride_DepthOfFieldMaxBokehSize=False,bOverride_DepthOfFieldNearBlurSize=False,bOverride_DepthOfFieldFarBlurSize=False,bOverride_DepthOfFieldMethod=True,bOverride_MobileHQGaussian=False,bOverride_DepthOfFieldBokehShape=False,bOverride_DepthOfFieldOcclusion=False,bOverride_DepthOfFieldColorThreshold=False,bOverride_DepthOfFieldSizeThreshold=False,bOverride_DepthOfFieldSkyFocusDistance=False,bOverride_DepthOfFieldVignetteSize=False,bOverride_MotionBlurAmount=False,bOverride_MotionBlurMax=False,bOverride_MotionBlurPerObjectSize=False,bOverride_ScreenPercentage=False,bOverride_AntiAliasingMethod=False,bOverride_ScreenSpaceReflectionIntensity=True,bOverride_ScreenSpaceReflectionQuality=True,bOverride_ScreenSpaceReflectionMaxRoughness=True,bOverride_ScreenSpaceReflectionRoughnessScale=False,WhiteTemp=6700.000000,WhiteTint=0.000000,ColorSaturation=(X=1.000000,Y=1.000000,Z=1.000000),ColorContrast=(X=1.000000,Y=1.000000,Z=1.000000),ColorGamma=(X=1.000000,Y=1.000000,Z=1.000000),ColorGain=(X=1.000000,Y=1.000000,Z=1.000000),ColorOffset=(X=0.005000,Y=0.005000,Z=0.005000),FilmWhitePoint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),FilmShadowTint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),FilmShadowTintBlend=0.500000,FilmShadowTintAmount=0.000000,FilmSaturation=1.000000,FilmChannelMixerRed=(R=1.000000,G=0.000000,B=0.000000,A=1.000000),FilmChannelMixerGreen=(R=0.000000,G=1.000000,B=0.000000,A=1.000000),FilmChannelMixerBlue=(R=0.000000,G=0.000000,B=1.000000,A=1.000000),FilmContrast=0.030000,FilmToeAmount=1.000000,FilmHealAmount=0.180000,FilmDynamicRange=4.000000,FilmSlope=0.880000,FilmToe=0.550000,FilmShoulder=0.260000,FilmBlackClip=0.000000,FilmWhiteClip=0.040000,SceneColorTint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),SceneFringeIntensity=0.000000,BloomIntensity=1.000000,BloomThreshold=1.000000,BloomSizeScale=4.000000,Bloom1Size=1.000000,Bloom2Size=4.000000,Bloom3Size=16.000000,Bloom4Size=32.000000,Bloom5Size=64.000000,Bloom6Size=64.000000,Bloom1Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom2Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom3Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom4Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom5Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom6Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),BloomDirtMaskIntensity=1.000000,BloomDirtMaskTint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),BloomDirtMask=None,LPVIntensity=1.000000,LPVVplInjectionBias=0.640000,LPVSize=5312.000000,LPVSecondaryOcclusionIntensity=0.000000,LPVSecondaryBounceIntensity=0.000000,LPVGeometryVolumeBias=0.384000,LPVEmissiveInjectionIntensity=1.000000,LPVDirectionalOcclusionIntensity=0.000000,LPVDirectionalOcclusionRadius=8.000000,LPVDiffuseOcclusionExponent=1.000000,LPVSpecularOcclusionExponent=7.000000,LPVDiffuseOcclusionIntensity=1.000000,LPVSpecularOcclusionIntensity=1.000000,AmbientCubemapTint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),AmbientCubemapIntensity=1.000000,AmbientCubemap=None,AutoExposureMethod=AEM_Histogram,AutoExposureLowPercent=80.000000,AutoExposureHighPercent=98.300003,AutoExposureMinBrightness=1.000000,AutoExposureMaxBrightness=1.000000,AutoExposureSpeedUp=3.000000,AutoExposureSpeedDown=1.000000,AutoExposureBias=0.330000,HistogramLogMin=-8.000000,HistogramLogMax=4.000000,LensFlareIntensity=1.000000,LensFlareTint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),LensFlareBokehSize=3.000000,LensFlareThreshold=8.000000,LensFlareBokehShape=None,LensFlareTints[0]=(R=1.000000,G=0.800000,B=0.400000,A=0.600000),LensFlareTints[1]=(R=1.000000,G=1.000000,B=0.600000,A=0.530000),LensFlareTints[2]=(R=0.800000,G=0.800000,B=1.000000,A=0.460000),LensFlareTints[3]=(R=0.500000,G=1.000000,B=0.400000,A=0.390000),LensFlareTints[4]=(R=0.500000,G=0.800000,B=1.000000,A=0.310000),LensFlareTints[5]=(R=0.900000,G=1.000000,B=0.800000,A=0.270000),LensFlareTints[6]=(R=1.000000,G=0.800000,B=0.400000,A=0.220000),LensFlareTints[7]=(R=0.900000,G=0.700000,B=0.700000,A=0.150000),VignetteIntensity=0.161468,GrainJitter=0.000000,GrainIntensity=0.000000,AmbientOcclusionIntensity=1.000000,AmbientOcclusionStaticFraction=1.000000,AmbientOcclusionRadius=73.477997,AmbientOcclusionRadiusInWS=False,AmbientOcclusionFadeDistance=8000.000000,AmbientOcclusionFadeRadius=5000.000000,AmbientOcclusionDistance=80.000000,AmbientOcclusionPower=1.200000,AmbientOcclusionBias=3.000000,AmbientOcclusionQuality=100.000000,AmbientOcclusionMipBlend=0.600000,AmbientOcclusionMipScale=1.700000,AmbientOcclusionMipThreshold=0.010000,IndirectLightingColor=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),IndirectLightingIntensity=1.000000,ColorGradingIntensity=0.000000,ColorGradingLUT=Texture2D'/Engine/EditorResources/RGBTable16x1_AssetViewer.RGBTable16x1_AssetViewer',DepthOfFieldMethod=DOFM_BokehDOF,bMobileHQGaussian=False,DepthOfFieldFstop=4.000000,DepthOfFieldSensorWidth=24.576000,DepthOfFieldFocalDistance=1000.000000,DepthOfFieldDepthBlurAmount=1.000000,DepthOfFieldDepthBlurRadius=0.000000,DepthOfFieldFocalRegion=0.000000,DepthOfFieldNearTransitionRegion=300.000000,DepthOfFieldFarTransitionRegion=500.000000,DepthOfFieldScale=0.000000,DepthOfFieldMaxBokehSize=15.000000,DepthOfFieldNearBlurSize=15.000000,DepthOfFieldFarBlurSize=15.000000,DepthOfFieldBokehShape=None,DepthOfFieldOcclusion=0.400000,DepthOfFieldColorThreshold=1.000000,DepthOfFieldSizeThreshold=0.080000,DepthOfFieldSkyFocusDistance=0.000000,DepthOfFieldVignetteSize=200.000000,MotionBlurAmount=0.500000,MotionBlurMax=5.000000,MotionBlurPerObjectSize=0.500000,ScreenPercentage=100.000000,AntiAliasingMethod=AAM_TemporalAA,ScreenSpaceReflectionIntensity=100.000000,ScreenSpaceReflectionQuality=100.000000,ScreenSpaceReflectionMaxRoughness=1.000000,WeightedBlendables=(Array=),Blendables=),bPostProcessingEnabled=True,LightingRigRotation=109.389069,RotationSpeed=2.000000,DirectionalLightRotation=(Pitch=-39.999985,Yaw=-67.500015,Roll=0.000000))
+[2016.12.08-21.08.46:952][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: myproject5, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2117210740
+[2016.12.08-21.08.47:089][  0]LogAssetRegistry: FAssetRegistry took 0.0219 seconds to start up
+[2016.12.08-21.08.47:683][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.555156 seconds
+[2016.12.08-21.08.47:690][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2016.12.08-21.08.47:690][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2016.12.08-21.08.47:690][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.12.08-21.08.47:946][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.12.08-21.08.53:134][  0]LogSlate: Using Freetype 2.6.0
+[2016.12.08-21.08.53:223][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.08-21.08.53:223][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.08-21.09.22:309][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.12.08-21.09.22:449][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.12.08-21.09.23:575][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.12.08-21.09.24:550][  0]SourceControl: Info Source control is disabled
+[2016.12.08-21.09.24:552][  0]SourceControl: Info Source control is disabled
+[2016.12.08-21.09.24:770][  0]SourceControl: Info Source control is disabled
+[2016.12.08-21.09.24:977][  0]SourceControl: Info Source control is disabled
+[2016.12.08-21.09.29:520][  0]LogEngine: Initializing Engine...
+[2016.12.08-21.09.29:521][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.12.08-21.09.29:978][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-21.09.29:993][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.08-21.09.30:012][  0]LogInit: FAudioDevice initialized.
+[2016.12.08-21.09.30:044][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/kuari_000/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.12.08-21.09.30:051][  0]LogInit: Texture streaming: Enabled
+[2016.12.08-21.09.30:681][  0]LogInit: Transaction tracking system initialized
+[2016.12.08-21.09.31:601][  0]BlueprintLog: New page: Editor Load
+[2016.12.08-21.09.35:229][  0]LocalizationService: Info Localization service is disabled
+[2016.12.08-21.09.37:248][  0]LogConsoleResponse:Display: 
+[2016.12.08-21.09.38:148][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.12.08-21.09.38:148][  0]LogCook:Display: Mobile HDR setting 1
+[2016.12.08-21.09.39:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kuari_000/Documents/GitHub/Ruiz/Content/' took 0.02s
+[2016.12.08-21.09.41:998][  0]SourceControl: Info Source control is disabled
+[2016.12.08-21.09.41:998][  0]Cmd: MAP LOAD FILE="../../../../../../Users/kuari_000/Documents/GitHub/Ruiz/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.08-21.09.41:999][  0]LightingResults: New page: Lighting Build
+[2016.12.08-21.09.42:086][  0]MapCheck: New page: Map Check
+[2016.12.08-21.09.42:086][  0]LightingResults: New page: Lighting Build
+[2016.12.08-21.09.46:960][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.08-21.09.47:080][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.08-21.09.47:080][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.08-21.09.47:277][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 196.523ms to complete.
+[2016.12.08-21.09.47:277][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 5.279
+[2016.12.08-21.09.47:358][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.08-21.09.47:844][  0]LogCollectionManager: Loaded 0 collections in 0.003218 seconds
+[2016.12.08-21.09.48:011][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kuari_000/Documents/GitHub/Ruiz/Saved/Collections/' took 0.01s
+[2016.12.08-21.09.48:011][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kuari_000/Documents/GitHub/Ruiz/Content/Developers/kuari000/Collections/' took 0.01s
+[2016.12.08-21.09.48:011][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kuari_000/Documents/GitHub/Ruiz/Content/Collections/' took 0.01s
+[2016.12.08-21.09.48:011][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2016.12.08-21.09.48:026][  0]LogContentBrowser: Native class hierarchy populated in 0.0152 seconds. Added 2191 classes and 430 folders.
+[2016.12.08-21.09.48:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.12.08-21.09.48:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.12.08-21.09.48:136][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0009 seconds. Added 13 classes and 0 folders.
+[2016.12.08-21.09.48:279][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2016.12.08-21.09.49:251][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2016.12.08-21.09.49:403][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.12.08-21.09.49:407][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.12.08-21.09.49:583][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2016.12.08-21.09.49:584][  0]LogLoad: (Engine Initialization) Total time: 83.88 seconds
+[2016.12.08-21.09.49:584][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.26 seconds
+[2016.12.08-21.09.49:584][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.12.08-21.09.49:584][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.12.08-21.09.49:601][  0]LogOcInput: OculusInput pre-init called
+[2016.12.08-21.09.49:623][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.12.08-21.09.49:960][  0]LogRenderer: Reallocating scene render targets to support 1208x924 NumSamples 1 (Frame:2).
+[2016.12.08-21.09.50:084][  1]LogAssetRegistry: Asset discovery search completed in 63.0173 seconds
+[2016.12.08-21.09.50:084][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.12.08-21.09.50:084][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000018 seconds (updated 0 objects)
+[2016.12.08-21.10.22:017][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (car_interior)
+[2016.12.08-21.16.43:297][420]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.08-21.16.43:297][420]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.08-21.16.50:618][604]LogStaticMesh: Building static mesh Car_01...
+[2016.12.08-21.16.50:632][604]LogMeshUtilities: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2016.12.08-21.16.50:644][604]LogStaticMesh: Built static mesh [0.03s] /Game/Environment/Car_01.Car_01
+[2016.12.08-21.16.50:690][604]LogMaterial: Missing cached shader map for material M_Car_Cabriolet_01, compiling. 
+[2016.12.08-21.16.50:760][604]LogActorFactory: Actor Factory created Car_01
+[2016.12.08-21.16.52:243][649]LogActorFactory: Actor Factory created Car_01
+[2016.12.08-21.16.55:416][746]LogEditorViewport: Clicking on Actor (context menu): Road01_BluePrint_C (Road01_BluePrint5)
+[2016.12.08-21.16.56:631][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Car_01)
+[2016.12.08-21.17.28:294][668]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.08-21.17.28:294][668]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.08-21.17.32:344][741]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:344][741]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:347][741]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:347][741]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:376][742]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:376][742]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:378][742]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:378][742]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:407][743]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:407][743]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:409][743]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:409][743]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:473][744]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:473][744]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:475][744]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:475][744]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:539][745]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:539][745]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:542][745]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:542][745]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:638][746]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:638][746]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:640][746]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:640][746]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:670][747]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:671][747]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:673][747]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:673][747]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:736][748]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:736][748]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:738][748]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:738][748]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:768][749]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:769][749]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:771][749]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:771][749]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:801][750]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:801][750]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:803][750]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:803][750]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:848][751]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:848][751]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:849][751]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:849][751]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:866][752]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:866][752]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:868][752]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:868][752]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:898][753]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:898][753]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:900][753]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:900][753]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:931][754]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:931][754]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:933][754]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:933][754]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:964][755]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:964][755]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:966][755]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:966][755]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:996][756]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:996][756]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:998][756]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.32:998][756]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:028][757]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:028][757]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:031][757]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:031][757]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:061][758]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:061][758]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:063][758]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:063][758]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:093][759]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:093][759]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:095][759]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:095][759]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:126][760]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:126][760]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:127][760]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:127][760]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:158][761]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:158][761]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:159][761]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:159][761]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:190][762]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:191][762]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:192][762]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:192][762]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:223][763]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:223][763]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:225][763]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:225][763]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:255][764]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:256][764]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:258][764]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:258][764]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:288][765]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:288][765]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:290][765]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.33:290][765]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:303][887]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:303][887]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:306][887]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:306][887]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:339][888]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:339][888]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:341][888]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:341][888]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:355][889]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:355][889]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:358][889]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:358][889]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:387][890]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:387][890]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:390][890]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:390][890]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:420][891]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:420][891]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:421][891]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:421][891]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:452][892]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:452][892]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:454][892]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:454][892]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:485][893]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:485][893]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:487][893]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:487][893]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:517][894]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:517][894]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:519][894]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:519][894]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:549][895]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:549][895]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:552][895]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:552][895]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:582][896]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:582][896]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:584][896]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:584][896]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:614][897]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:614][897]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:616][897]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:616][897]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:647][898]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:647][898]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:649][898]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:649][898]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:680][899]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:680][899]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:682][899]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:682][899]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:712][900]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:712][900]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:714][900]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:714][900]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:745][901]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:745][901]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:747][901]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:747][901]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:777][902]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:777][902]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:780][902]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:780][902]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:809][903]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:809][903]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:812][903]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:812][903]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:842][904]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:842][904]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:844][904]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:844][904]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:874][905]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:874][905]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:877][905]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:877][905]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:907][906]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:907][906]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:909][906]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:909][906]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:939][907]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:939][907]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:941][907]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:941][907]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:972][908]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:972][908]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:974][908]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.39:974][908]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.40:004][909]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.40:004][909]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.40:007][909]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.40:007][909]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.40:036][910]EditorErrors: New page: Actor attachment
+[2016.12.08-21.17.41:877][945]Cmd: TRANSACTION UNDO
+[2016.12.08-21.17.41:877][945]LogEditorTransaction: Undo Attach actors
+[2016.12.08-21.17.42:882][964]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:882][964]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:884][964]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:884][964]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:928][965]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:928][965]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:931][965]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:931][965]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:979][966]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:979][966]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:981][966]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:981][966]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:993][967]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:993][967]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:995][967]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.42:995][967]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:042][968]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:042][968]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:044][968]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:044][968]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:089][969]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:089][969]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:092][969]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:092][969]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:138][970]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:138][970]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:140][970]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:140][970]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:186][971]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:186][971]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:188][971]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:188][971]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:236][972]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:236][972]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:238][972]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:238][972]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:284][973]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:284][973]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:287][973]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:287][973]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:333][974]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:333][974]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:335][974]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:335][974]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:381][975]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:381][975]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:384][975]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:384][975]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.12.08-21.17.43:430][976]EditorErrors: New page: Actor attachment
+[2016.12.08-21.18.10:781][674]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.08-21.18.10:781][674]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.08-21.18.58:934][945]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.12.08-21.18.58:949][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.18.58:949][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-21.18.58:949][945]PIE: New page: PIE session: FirstPersonExampleMap (Dec 8, 2016, 11:18:58 PM)
+[2016.12.08-21.18.58:949][945]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.08-21.18.58:975][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026050s)
+[2016.12.08-21.18.58:976][945]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.08-21.18.58:976][945]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2016.12.08-21.18.58:976][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.027064s)
+[2016.12.08-21.18.59:036][945]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.08-21.18.59:049][945]LogInit: FAudioDevice initialized.
+[2016.12.08-21.18.59:103][945]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-21.18.59:112][945]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2016.12.08-22.18.59
+[2016.12.08-21.18.59:183][945]LogWorld: Bringing up level for play took: 0.078361
+[2016.12.08-21.18.59:269][945]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2016.12.08-21.18.59:269][945]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.18.59:269][945]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.18.59:269][945]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.18.59:270][945]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.18.59:274][945]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.041
+[2016.12.08-21.18.59:274][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.18.59:315][945]LogRenderer: Reallocating scene render targets to support 1612x936 NumSamples 1 (Frame:4898).
+[2016.12.08-21.19.11:169][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.19.11:316][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.19.19:590][335]LogEditorViewport: Clicking Background
+[2016.12.08-21.19.21:036][374]Cmd: TRANSACTION UNDO
+[2016.12.08-21.19.21:036][374]LogEditorTransaction: Undo Clicking Background
+[2016.12.08-21.19.21:509][383]Cmd: TRANSACTION UNDO
+[2016.12.08-21.19.21:509][383]LogEditorTransaction: Undo Rotate Actors
+[2016.12.08-21.19.21:854][393]Cmd: TRANSACTION UNDO
+[2016.12.08-21.19.21:854][393]LogEditorTransaction: Undo Move Actors
+[2016.12.08-21.19.22:056][398]Cmd: TRANSACTION UNDO
+[2016.12.08-21.19.22:056][398]LogEditorTransaction: Undo Clicking on Actors
+[2016.12.08-21.19.22:373][407]Cmd: TRANSACTION UNDO
+[2016.12.08-21.19.22:373][407]LogEditorTransaction: Undo Move Actors
+[2016.12.08-21.19.22:830][420]Cmd: TRANSACTION UNDO
+[2016.12.08-21.19.22:830][420]LogEditorTransaction: Undo Move Actors
+[2016.12.08-21.19.23:474][439]Cmd: TRANSACTION UNDO
+[2016.12.08-21.19.23:474][439]LogEditorTransaction: Undo Clicking on Actors
+[2016.12.08-21.19.54:494][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Car_01)
+[2016.12.08-21.20.13:741][762]LogSavePackage: Save=164.40ms
+[2016.12.08-21.20.13:741][762]LogSavePackage: Moving '../../../../../../Users/kuari_000/Documents/GitHub/Ruiz/Saved/FirstPersonExampleMap140F624C4E3A81D86685AE97EF766DF8.tmp' to '../../../../../../Users/kuari_000/Documents/GitHub/Ruiz/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2016.12.08-21.20.13:747][762]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kuari_000/Documents/GitHub/Ruiz/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2016.12.08-21.20.20:238][903]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 111 classes and 0 folders.
+[2016.12.08-21.20.34:168][264]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.12.08-21.20.34:189][264]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.20.34:189][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-21.20.34:189][264]PIE: New page: PIE session: FirstPersonExampleMap (Dec 8, 2016, 11:20:34 PM)
+[2016.12.08-21.20.34:189][264]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.08-21.20.34:216][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026985s)
+[2016.12.08-21.20.34:216][264]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.08-21.20.34:216][264]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2016.12.08-21.20.34:217][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.027886s)
+[2016.12.08-21.20.34:252][264]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.08-21.20.34:266][264]LogInit: FAudioDevice initialized.
+[2016.12.08-21.20.34:303][264]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-21.20.34:309][264]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2016.12.08-22.20.34
+[2016.12.08-21.20.34:378][264]LogWorld: Bringing up level for play took: 0.073360
+[2016.12.08-21.20.34:378][264]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.08-21.20.34:378][264]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.20.34:378][264]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.20.34:378][264]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.20.34:379][264]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.20.34:382][264]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.149
+[2016.12.08-21.20.34:382][264]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.20.39:551][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.20.39:686][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.21.00:367][864]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.12.08-21.21.00:379][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.21.00:379][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-21.21.00:379][864]PIE: New page: PIE session: FirstPersonExampleMap (Dec 8, 2016, 11:21:00 PM)
+[2016.12.08-21.21.00:380][864]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.08-21.21.00:407][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027428s)
+[2016.12.08-21.21.00:408][864]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.08-21.21.00:408][864]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2016.12.08-21.21.00:408][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028571s)
+[2016.12.08-21.21.00:434][864]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.08-21.21.00:445][864]LogInit: FAudioDevice initialized.
+[2016.12.08-21.21.00:483][864]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-21.21.00:490][864]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.08-22.21.00
+[2016.12.08-21.21.00:559][864]LogWorld: Bringing up level for play took: 0.074204
+[2016.12.08-21.21.00:559][864]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.08-21.21.00:559][864]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.21.00:559][864]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.21.00:559][864]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.21.00:560][864]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.21.00:563][864]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.67
+[2016.12.08-21.21.00:563][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.21.02:238][924]LogRenderer: Reallocating scene render targets to support 1920x1016 NumSamples 1 (Frame:7004).
+[2016.12.08-21.21.31:718][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.21.31:809][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.21.47:466][280]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.12.08-21.21.47:482][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.21.47:482][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-21.21.47:482][280]PIE: New page: PIE session: FirstPersonExampleMap (Dec 8, 2016, 11:21:47 PM)
+[2016.12.08-21.21.47:482][280]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.08-21.21.47:516][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033771s)
+[2016.12.08-21.21.47:517][280]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.08-21.21.47:517][280]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2016.12.08-21.21.47:517][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034873s)
+[2016.12.08-21.21.47:556][280]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.08-21.21.47:570][280]LogInit: FAudioDevice initialized.
+[2016.12.08-21.21.47:614][280]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-21.21.47:622][280]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2016.12.08-22.21.47
+[2016.12.08-21.21.47:707][280]LogWorld: Bringing up level for play took: 0.091776
+[2016.12.08-21.21.47:708][280]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.21.47:708][280]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.21.47:708][280]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.21.47:709][280]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.21.47:713][280]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.48
+[2016.12.08-21.21.47:713][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.22.15:224][  3]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.22.15:304][  3]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.22.17:044][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Car_01)
+[2016.12.08-21.22.37:736][828]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.12.08-21.22.37:751][828]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.22.37:751][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-21.22.37:751][828]PIE: New page: PIE session: FirstPersonExampleMap (Dec 8, 2016, 11:22:37 PM)
+[2016.12.08-21.22.37:751][828]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.08-21.22.37:785][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033479s)
+[2016.12.08-21.22.37:786][828]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.08-21.22.37:786][828]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2016.12.08-21.22.37:786][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034882s)
+[2016.12.08-21.22.37:819][828]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.08-21.22.37:834][828]LogInit: FAudioDevice initialized.
+[2016.12.08-21.22.37:878][828]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-21.22.37:886][828]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2016.12.08-22.22.37
+[2016.12.08-21.22.37:979][828]LogWorld: Bringing up level for play took: 0.099303
+[2016.12.08-21.22.37:980][828]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.22.37:980][828]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.22.37:980][828]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.22.37:980][828]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.22.37:986][828]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.753
+[2016.12.08-21.22.37:986][828]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.23.10:431][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.23.10:515][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.23.36:350][ 52]LogEditorViewport: Clicking on Actor (LMB): Road01_BluePrint_C (Road01_BluePrint4)
+[2016.12.08-21.24.00:582][488]LogEditorViewport: Clicking on Actor (LMB): Road01_BluePrint_C (Road01_BluePrint5)
+[2016.12.08-21.24.01:449][538]LogEditorViewport: Clicking on Actor (LMB): Road01_BluePrint_C (Road01_BluePrint)
+[2016.12.08-21.24.02:414][594]LogEditorViewport: Clicking on Actor (LMB): Road01_BluePrint_C (Road01_BluePrint2)
+[2016.12.08-21.24.03:235][642]LogEditorViewport: Clicking on Actor (LMB): Road01_BluePrint_C (Road01_BluePrint3)
+[2016.12.08-21.24.04:923][741]LogEditorViewport: Clicking on Actor (LMB): StreetLamp_Pole5_Blueprint_C (StreetLamp_Pole5_Blueprint4)
+[2016.12.08-21.24.09:720][ 25]LogEditorViewport: Clicking on Actor (LMB): Road01_BluePrint_C (Road01_BluePrint)
+[2016.12.08-21.24.19:749][619]LogEditorViewport: Clicking on Actor (LMB): Road01_BluePrint_C (Road01_BluePrint4)
+[2016.12.08-21.24.20:713][675]LogEditorViewport: Clicking on Actor (LMB): Road01_BluePrint_C (Road01_BluePrint3)
+[2016.12.08-21.24.24:189][881]LogEditorViewport: Clicking on Actor (LMB): Road01_BluePrint_C (Road01_BluePrint2)
+[2016.12.08-21.24.26:070][990]LogEditorViewport: Clicking on Actor (LMB): Road01_BluePrint_C (Road01_BluePrint)
+[2016.12.08-21.24.26:899][ 37]LogEditorViewport: Clicking on Actor (LMB): Road01_BluePrint_C (Road01_BluePrint5)
+[2016.12.08-21.24.38:032][ 25]Cmd: DELETE
+[2016.12.08-21.24.38:032][ 25]Cmd: ACTOR DELETE
+[2016.12.08-21.24.38:033][ 25]LogEditorActor: Deleted Actor: Road01_BluePrint_C
+[2016.12.08-21.24.38:056][ 25]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2016.12.08-21.24.39:922][240]LogEditorViewport: Clicking on Actor (LMB): Road01_BluePrint_C (Road01_BluePrint)
+[2016.12.08-21.25.07:875][468]Cmd: DUPLICATE
+[2016.12.08-21.25.07:875][468]Cmd: ACTOR DUPLICATE
+[2016.12.08-21.25.09:659][668]Cmd: TRANSACTION UNDO
+[2016.12.08-21.25.09:659][668]LogEditorTransaction: Undo Duplicate Actors
+[2016.12.08-21.25.10:067][707]Cmd: TRANSACTION UNDO
+[2016.12.08-21.25.10:067][707]LogEditorTransaction: Undo Move Actors
+[2016.12.08-21.25.10:721][779]Cmd: TRANSACTION UNDO
+[2016.12.08-21.25.10:721][779]LogEditorTransaction: Undo Move Actors
+[2016.12.08-21.25.30:330][  8]LogEditorViewport: Clicking Background
+[2016.12.08-21.25.34:590][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (car_interior)
+[2016.12.08-21.26.01:443][749]Cmd: DUPLICATE
+[2016.12.08-21.26.01:443][749]Cmd: ACTOR DUPLICATE
+[2016.12.08-21.26.02:442][857]Cmd: TRANSACTION UNDO
+[2016.12.08-21.26.02:442][857]LogEditorTransaction: Undo Duplicate Actors
+[2016.12.08-21.26.02:791][893]Cmd: TRANSACTION UNDO
+[2016.12.08-21.26.02:791][893]LogEditorTransaction: Undo Move Actors
+[2016.12.08-21.26.58:208][732]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.12.08-21.26.58:221][732]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.26.58:221][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-21.26.58:222][732]PIE: New page: PIE session: FirstPersonExampleMap (Dec 8, 2016, 11:26:58 PM)
+[2016.12.08-21.26.58:222][732]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.08-21.26.58:257][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035343s)
+[2016.12.08-21.26.58:258][732]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.08-21.26.58:258][732]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2016.12.08-21.26.58:258][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036586s)
+[2016.12.08-21.26.58:329][732]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.08-21.26.58:341][732]LogInit: FAudioDevice initialized.
+[2016.12.08-21.26.58:385][732]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-21.26.58:395][732]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.08-22.26.58
+[2016.12.08-21.26.58:464][732]LogWorld: Bringing up level for play took: 0.078151
+[2016.12.08-21.26.58:466][732]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.26.58:466][732]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.26.58:466][732]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.26.58:466][732]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.26.58:470][732]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.238
+[2016.12.08-21.26.58:471][732]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.27.29:364][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.27.29:486][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.27.47:464][387]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2016.12.08-21.27.48:588][505]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.12.08-21.27.48:600][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.27.48:600][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-21.27.48:600][505]PIE: New page: PIE session: FirstPersonExampleMap (Dec 8, 2016, 11:27:48 PM)
+[2016.12.08-21.27.48:600][505]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.08-21.27.48:634][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033379s)
+[2016.12.08-21.27.48:634][505]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.08-21.27.48:635][505]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2016.12.08-21.27.48:635][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034412s)
+[2016.12.08-21.27.48:691][505]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.08-21.27.48:702][505]LogInit: FAudioDevice initialized.
+[2016.12.08-21.27.48:738][505]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-21.27.48:747][505]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.08-22.27.48
+[2016.12.08-21.27.48:817][505]LogWorld: Bringing up level for play took: 0.077596
+[2016.12.08-21.27.48:817][505]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.08-21.27.48:818][505]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.27.48:818][505]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.27.48:818][505]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.27.48:818][505]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.27.48:821][505]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.412
+[2016.12.08-21.27.48:822][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.27.52:373][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.27.52:490][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.28.02:238][742]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2016.12.08-21.28.03:429][869]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.12.08-21.28.03:442][869]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.28.03:442][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-21.28.03:442][869]PIE: New page: PIE session: FirstPersonExampleMap (Dec 8, 2016, 11:28:03 PM)
+[2016.12.08-21.28.03:442][869]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.08-21.28.03:476][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034005s)
+[2016.12.08-21.28.03:477][869]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.08-21.28.03:477][869]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2016.12.08-21.28.03:477][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035073s)
+[2016.12.08-21.28.03:530][869]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.08-21.28.03:541][869]LogInit: FAudioDevice initialized.
+[2016.12.08-21.28.03:578][869]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-21.28.03:588][869]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.08-22.28.03
+[2016.12.08-21.28.03:664][869]LogWorld: Bringing up level for play took: 0.084785
+[2016.12.08-21.28.03:665][869]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.08-21.28.03:665][869]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.28.03:665][869]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.28.03:665][869]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.28.03:665][869]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.28.03:668][869]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.436
+[2016.12.08-21.28.03:669][869]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.28.25:503][412]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.28.25:653][412]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.28.35:413][537]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2016.12.08-21.28.36:517][653]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.12.08-21.28.36:530][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.28.36:530][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-21.28.36:530][653]PIE: New page: PIE session: FirstPersonExampleMap (Dec 8, 2016, 11:28:36 PM)
+[2016.12.08-21.28.36:530][653]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.08-21.28.36:561][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031031s)
+[2016.12.08-21.28.36:562][653]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.08-21.28.36:562][653]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2016.12.08-21.28.36:562][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.032095s)
+[2016.12.08-21.28.36:616][653]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.08-21.28.36:627][653]LogInit: FAudioDevice initialized.
+[2016.12.08-21.28.36:666][653]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-21.28.36:676][653]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.08-22.28.36
+[2016.12.08-21.28.36:746][653]LogWorld: Bringing up level for play took: 0.079079
+[2016.12.08-21.28.36:747][653]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.08-21.28.36:747][653]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.28.36:747][653]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.08-21.28.36:747][653]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.28.36:747][653]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.08-21.28.36:750][653]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.482
+[2016.12.08-21.28.36:751][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.29.03:461][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.29.03:517][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.29.16:364][451]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2016.12.08-21.29.16:449][451]LogTexture:Display: Building textures: CASC_Normal (BC5)
+[2016.12.08-21.29.16:452][451]LogTexture:Display: Building textures: CASC_Point (AutoDXT)
+[2016.12.08-21.29.16:455][451]LogTexture:Display: Building textures: CASC_Lights (BC5)
+[2016.12.08-21.29.16:458][451]LogTexture:Display: Building textures: CASC_CurveEd (AutoDXT)
+[2016.12.08-21.29.16:460][451]LogTexture:Display: Building textures: CASC_ModuleEnable (AutoDXT)
+[2016.12.08-21.29.16:464][451]LogTexture:Display: Building textures: CASC_ModuleDisable (AutoDXT)
+[2016.12.08-21.29.16:467][451]LogTexture:Display: Building textures: CASC_Solo_On (AutoDXT)
+[2016.12.08-21.29.16:470][451]LogTexture:Display: Building textures: CASC_Solo_Off (AutoDXT)
+[2016.12.08-21.29.16:472][451]LogTexture:Display: Building textures: CASC_DisabledModule (AutoDXT)
+[2016.12.08-21.29.46:666][826]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.46:666][826]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.46:666][826]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.46:666][826]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.46:666][826]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.48:199][928]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.48:199][928]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.48:199][928]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.48:199][928]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.48:199][928]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.49:661][ 27]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.49:661][ 27]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.49:661][ 27]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.49:661][ 27]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.49:661][ 27]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.51:166][127]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.51:166][127]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.51:166][127]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.51:166][127]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.29.51:166][127]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.12:624][803]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.12:624][803]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.12:624][803]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.12:624][803]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.12:624][803]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.20:219][385]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.20:219][385]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.20:219][385]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.20:220][385]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.20:220][385]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.32:446][334]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.32:446][334]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.32:446][334]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.32:446][334]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.32:446][334]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.35:051][530]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.35:051][530]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.35:051][530]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.35:051][530]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.35:051][530]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.36:633][641]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.36:633][641]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.36:633][641]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.36:633][641]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.36:634][641]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.37:828][723]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.37:828][723]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.37:828][723]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.37:828][723]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.37:828][723]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.41:109][959]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.41:109][959]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.41:109][959]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.41:109][959]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.41:109][959]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.42:960][ 92]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.42:960][ 92]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.42:960][ 92]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.42:961][ 92]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.42:961][ 92]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.44:503][201]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.44:503][201]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.44:503][201]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.44:503][201]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.44:503][201]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.52:688][820]LogEditorTransaction: Undo Edit Clamp Alpha
+[2016.12.08-21.30.52:932][820]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.52:932][820]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.52:932][820]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.52:932][820]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.52:932][820]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.53:034][820]LogEditorTransaction: Undo Edit Clamp Alpha
+[2016.12.08-21.30.53:270][820]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.53:270][820]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.53:270][820]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.53:270][820]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.53:270][820]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.54:183][871]LogEditorTransaction: Undo Clicking on Actors
+[2016.12.08-21.30.54:293][871]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.54:293][871]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.54:293][871]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.54:293][871]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.54:293][871]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.54:488][872]LogEditorTransaction: Undo Change Vector Pin Value
+[2016.12.08-21.30.54:605][872]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.54:605][872]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.54:605][872]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.54:605][872]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.54:605][872]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.54:903][879]LogEditorTransaction: Undo Create Pin Link
+[2016.12.08-21.30.55:006][879]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:006][879]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:006][879]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:006][879]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:006][879]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:215][883]LogEditorTransaction: Undo Edit X
+[2016.12.08-21.30.55:322][883]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:322][883]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:322][883]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:322][883]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:322][883]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:587][889]LogEditorTransaction: Undo Change Vector Pin Value
+[2016.12.08-21.30.55:705][889]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:705][889]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:705][889]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:705][889]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.55:705][889]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.56:261][908]LogEditorTransaction: Undo Edit X
+[2016.12.08-21.30.56:411][908]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.56:411][908]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.56:411][908]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.56:411][908]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.56:411][908]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.56:873][923]LogEditorTransaction: Undo Edit X
+[2016.12.08-21.30.56:981][923]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.56:981][923]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.56:981][923]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.56:981][923]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.56:981][923]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.57:610][947]LogEditorTransaction: Undo Change Vector Pin Value
+[2016.12.08-21.30.57:720][947]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.57:721][947]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.57:721][947]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.57:721][947]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.57:721][947]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.57:895][948]LogEditorTransaction: Undo Move Actors
+[2016.12.08-21.30.58:000][948]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.58:000][948]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.58:000][948]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.58:000][948]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.58:000][948]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.58:176][950]LogEditorTransaction: Undo Move Actors
+[2016.12.08-21.30.58:286][950]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.58:286][950]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.58:286][950]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.58:286][950]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.30.58:286][950]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.00:209][  1]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.00:209][  1]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.00:209][  1]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.00:209][  1]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.00:209][  1]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.01:510][ 34]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.01:510][ 34]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.01:510][ 34]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.01:510][ 34]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.01:510][ 34]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.03:153][ 76]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.03:153][ 76]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.03:153][ 76]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.03:153][ 76]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.03:153][ 76]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.04:701][117]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.04:701][117]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.04:701][117]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.04:701][117]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.04:701][117]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.05:820][145]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.05:820][145]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.05:820][145]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.05:820][145]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.05:820][145]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.07:168][180]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.07:168][180]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.07:168][180]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.07:169][180]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.07:169][180]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.08:115][203]LogParticles:Warning: MaxCount = 2423 for Emitter ParticleSpriteEmitter_2 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.08:115][203]LogParticles:Warning: MaxCount = 1571 for Emitter ParticleSpriteEmitter_3 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.08:115][203]LogParticles:Warning: MaxCount = 3620 for Emitter ParticleSpriteEmitter_5 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.08:115][203]LogParticles:Warning: MaxCount = 3016 for Emitter ParticleSpriteEmitter_4 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.08:115][203]LogParticles:Warning: MaxCount = 50320 for Emitter ParticleSpriteEmitter_8 (/Game/Effects/Particles/Snow/P_Blizzard.P_Blizzard)
+[2016.12.08-21.31.42:028][164]LogCascade: Quitting Cascade. FXSystem=0x000001E795971B20
+[2016.12.08-21.32.54:786][227]LogMaterial: Missing cached shader map for material M_Snow_Blowing_Lit, compiling. 
+[2016.12.08-21.32.54:877][227]LogMaterial: Missing cached shader map for material M_Snow_Blowing_Lit, compiling. 
+[2016.12.08-21.32.54:890][227]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-21.32.54:917][227]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_2, compiling. 
+[2016.12.08-21.32.54:919][227]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2016.12.08-21.32.54:924][227]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterSubUV_1, compiling. 
+[2016.12.08-21.32.54:930][227]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2016.12.08-21.32.57:489][329]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 53 instructions
+[2016.12.08-21.32.57:489][329]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 90 instructions
+[2016.12.08-21.32.57:489][329]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.12.08-21.32.57:489][329]MaterialEditorStats: Info Texture samplers: 8/16
+[2016.12.08-21.33.08:435][ 67]LogMaterial: Missing cached shader map for material M_Snow_Blowing_Lit, compiling. 
+[2016.12.08-21.33.08:448][ 67]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-21.33.10:163][143]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 54 instructions
+[2016.12.08-21.33.10:163][143]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 91 instructions
+[2016.12.08-21.33.10:163][143]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.12.08-21.33.10:163][143]MaterialEditorStats: Info Texture samplers: 8/16
+[2016.12.08-21.33.13:329][351]LogMaterialEditor: Applying material M_Snow_Blowing_Lit
+[2016.12.08-21.33.13:929][351]LogMaterial: Missing cached shader map for material M_Snow_Blowing_Lit, compiling. 
+[2016.12.08-21.33.13:954][351]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-21.33.13:983][351]LogMaterial: Missing cached shader map for material M_Snow_Blowing_Lit, compiling. 
+[2016.12.08-21.33.14:045][351]LogMaterial: Missing cached shader map for material M_Snow_Blowing_Lit, compiling. 
+[2016.12.08-21.33.14:105][351]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-21.33.34:432][324]LogMaterial: Missing cached shader map for material M_SnowFlake_VelocityLerp_AA, compiling. 
+[2016.12.08-21.33.34:543][324]LogMaterial: Missing cached shader map for material M_SnowFlake_VelocityLerp_AA, compiling. 
+[2016.12.08-21.33.34:562][324]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-21.33.34:589][324]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_11, compiling. 
+[2016.12.08-21.33.34:597][324]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2016.12.08-21.33.34:606][324]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2016.12.08-21.33.34:612][324]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2016.12.08-21.33.34:620][324]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2016.12.08-21.33.36:373][394]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 36 instructions
+[2016.12.08-21.33.36:373][394]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 73 instructions
+[2016.12.08-21.33.36:373][394]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.12.08-21.33.36:373][394]MaterialEditorStats: Info Texture samplers: 6/16
+[2016.12.08-21.34.05:585][491]LogMaterial: Missing cached shader map for material M_SnowFlake_VelocityLerp_AA, compiling. 
+[2016.12.08-21.34.05:601][491]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-21.34.07:713][588]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 36 instructions
+[2016.12.08-21.34.07:713][588]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 73 instructions
+[2016.12.08-21.34.07:713][588]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2016.12.08-21.34.07:713][588]MaterialEditorStats: Info Texture samplers: 6/16
+[2016.12.08-21.34.09:691][729]LogMaterialEditor: Applying material M_SnowFlake_VelocityLerp_AA
+[2016.12.08-21.34.10:217][729]LogMaterial: Missing cached shader map for material M_SnowFlake_VelocityLerp_AA, compiling. 
+[2016.12.08-21.34.10:243][729]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-21.34.10:264][729]LogMaterial: Missing cached shader map for material M_SnowFlake_VelocityLerp_AA, compiling. 
+[2016.12.08-21.34.10:328][729]LogMaterial: Missing cached shader map for material M_SnowFlake_VelocityLerp_AA, compiling. 
+[2016.12.08-21.34.10:390][729]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-21.34.14:091][909]LogEditorViewport: Clicking on Component (context menu): ParticleSystemComponent (ParticleSystemComponent0)
+[2016.12.08-21.34.15:122][938]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (ParticleSystemComponent0)
+[2016.12.08-21.34.20:515][429]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.12.08-21.34.20:527][429]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.08-21.34.20:527][429]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.08-21.34.20:527][429]LogPlayLevel: [PlayLevel] Compiling FirstPersonExampleMap before play...
+[2016.12.08-21.34.20:643][429]LogPlayLevel: PlayLevel: Blueprint regeneration took 116 ms (1 blueprints)
+[2016.12.08-21.34.20:643][429]PIE: New page: PIE session: FirstPersonExampleMap (Dec 8, 2016, 11:34:20 PM)
+[2016.12.08-21.34.20:643][429]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.08-21.34.20:725][429]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.059 s
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: === Handled ensure: ===
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: 
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 717]
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: Type mismatch: Expected FirstPersonExampleMap_C, Found LevelScriptBlueprint
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: Stack: 
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-Core.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-Core.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-Core.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-Engine.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-Engine.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-CoreUObject.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-CoreUObject.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-Engine.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor.exe
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor.exe
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor.exe
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor.exe
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: UE4Editor.exe
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: KERNEL32.DLL
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: ntdll.dll
+[2016.12.08-21.34.20:725][429]LogOutputDevice:Error: 
+[2016.12.08-21.34.20:732][429]LogStats:                SubmitErrorReport -  0.000 s
